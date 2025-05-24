@@ -1,0 +1,22 @@
+[33mcommit 060d7cc5e065516b56763c3d61f5c87e6047c8bd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: JR-003-2025-02 <josesunny2025@gmail.com>
+Date:   Sat May 24 14:28:44 2025 +0100
+
+    Initial commit: Expense Tracker App setup
+
+ .gitignore                     |   24 [32m+[m
+ README.md                      |   12 [32m+[m
+ eslint.config.js               |   33 [32m+[m
+ index.html                     |   13 [32m+[m
+ package-lock.json              | 3103 [32m++++++++++++++++++++++++++++++++++++++++[m
+ package.json                   |   34 [32m+[m
+ public/vite.svg                |    1 [32m+[m
+ src/App.css                    |   42 [32m+[m
+ src/App.jsx                    |   50 [32m+[m
+ src/assets/react.svg           |    1 [32m+[m
+ src/index.css                  |    8 [32m+[m
+ src/main.jsx                   |   11 [32m+[m
+ src/services/supabaseClient.js |   15 [32m+[m
+ tailwind.config.js             |   11 [32m+[m
+ vite.config.js                 |    7 [32m+[m
+ 15 files changed, 3365 insertions(+)
