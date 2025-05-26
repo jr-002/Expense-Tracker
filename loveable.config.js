@@ -1,4 +1,7 @@
 module.exports = {
+  // Personal access token for loveable.dev
+  token: '0Zlo36j6r4cUu830r1lB6ksKQpG2',
+
   // Allow Loveable to access all files in the project
   include: ['**/*'],
   
