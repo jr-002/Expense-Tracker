@@ -1,6 +1,9 @@
 module.exports = {
   // Personal access token for lovable.dev
   token: '0Zlo36j6r4cUu830r1lB6ksKQpG2',
+  
+  // Build command
+  build: 'npm run build',
 
   // Allow Loveable to access all files in the project
   include: ['**/*'],
